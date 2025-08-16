@@ -37,7 +37,7 @@
 
 ⭐ Estou apenas começando, mas cada linha de código é um passo a mais na minha jornada!  
 
-![Snake animation](https://github.com/EmanuelM-Coder/EmanuelM-Coder/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **EmanuelM-Coder/EmanuelM-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
